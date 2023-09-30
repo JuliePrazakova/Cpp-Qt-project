@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameEnd.qml</file>
+        <file>images/bojovnik.png</file>
+        <file>images/drak.png</file>
+        <file>images/karak.png</file>
+        <file>images/rovne.png</file>
+        <file>images/rozcesti.png</file>
+        <file>images/sipka.png</file>
+        <file>images/zatacka.png</file>
+        <file>Mapa.qml</file>
+        <file>images/rozcestiPrisera.png</file>
+        <file>images/rovnePrisera.png</file>
+        <file>images/zatackaPrisera.png</file>
+        <file>SetUpInfo.qml</file>
+        <file>StartButton.qml</file>
+        <file>LevelBtn.qml</file>
+        <file>HelpBtn.qml</file>
+        <file>HelpDialogEasy.qml</file>
+        <file>HelpDialogHard.qml</file>
+        <file>Tile.qml</file>
+        <file>Menu.qml</file>
+        <file>ButtonMenu.qml</file>
+        <file>images/question_icon.png</file>
+        <file>images/Dragon.PNG</file>
+        <file>images/MonsterWithAxe.PNG</file>
+        <file>images/MonsterWithSword.PNG</file>
+        <file>images/storm.png</file>
+        <file>images/axe.png</file>
+        <file>images/potion.png</file>
+        <file>images/key.png</file>
+        <file>images/close_icon2.png</file>
+        <file>images/restart_icon2.png</file>
+        <file>images/info_icon2.png</file>
+        <file>images/icon_heart.png</file>
+        <file>images/dices.png</file>
+    </qresource>
+</RCC>
